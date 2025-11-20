@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaDoble")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e07e2e528d0e14b378bbf81f0fa8994bf29704cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cefc8200a8ac0b8d8254df708f97e2d8d3c7c571")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaDoble")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaDoble")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

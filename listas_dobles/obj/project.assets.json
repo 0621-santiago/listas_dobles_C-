@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\listas_dobles_c#\\listas_dobles_C-\\ListaDoble.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\listas_dobles_c#\\listas_dobles_C-\\listas_dobles\\ListaDoble.csproj",
       "projectName": "ListaDoble",
-      "projectPath": "C:\\Users\\Usuario\\Downloads\\listas_dobles_c#\\listas_dobles_C-\\ListaDoble.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Downloads\\listas_dobles_c#\\listas_dobles_C-\\listas_dobles\\ListaDoble.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Downloads\\listas_dobles_c#\\listas_dobles_C-\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Downloads\\listas_dobles_c#\\listas_dobles_C-\\listas_dobles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
