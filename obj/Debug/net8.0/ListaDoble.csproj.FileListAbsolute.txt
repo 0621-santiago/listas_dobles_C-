@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\bin\Debug\net8.0\ListaDoble.exe
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\bin\Debug\net8.0\ListaDoble.deps.json
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\bin\Debug\net8.0\ListaDoble.runtimeconfig.json
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\bin\Debug\net8.0\ListaDoble.dll
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\bin\Debug\net8.0\ListaDoble.pdb
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.sourcelink.json
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.dll
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\refint\ListaDoble.dll
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.pdb
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ListaDoble.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\listas_dobles_c#\listas_dobles_C-\obj\Debug\net8.0\ref\ListaDoble.dll
